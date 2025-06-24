@@ -19,9 +19,8 @@ A simple and responsive QR Code Generator web app built with **HTML**, **CSS**, 
 ---
 
 ## 📸 Demo
+[demo image](demo.png)
 
-> Add a link or screenshot here  
-> _e.g., [Live Demo]
 
 ---
 
